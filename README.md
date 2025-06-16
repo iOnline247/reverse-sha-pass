@@ -1,6 +1,8 @@
 # reverse-sha-pass
 Reverse engineer SHA1_Pass-v1.4
 
+**WARNING**: This software is copyrighted, so I did not continue.
+
 ## Prerequisites
 Follow these instructions for the latest installation notes:
 
@@ -15,5 +17,3 @@ https://github.com/NationalSecurityAgency/ghidra/blob/Ghidra_11.3.2_build/Ghidra
   - Do not run into this error: `ERROR: Ghidra path cannot contain a "!" character.`
 - Create a new project: Non-Shared
   - Drag `.exe` into Ghidra project 
-
-
