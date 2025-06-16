@@ -1,6 +1,8 @@
 # reverse-sha-pass
 Reverse engineer SHA1_Pass-v1.4
 
+**WARNING**: This software is copyrighted, so I did not continue.
+
 ## Prerequisites
 Follow these instructions for the latest installation notes:
 
